@@ -3,10 +3,10 @@ I lost $22,000 in the security flaw of Atomic Wallet 2.69.2, and I am providing 
 
 I will provide a tutorial for you to decompile the version of your Atomic Wallet as well.
 
-1° - Install NodeJS on your computer and then execute the following commands:
-2° - cd C:\Users\YOURNAME\AppData\Local\Programs\atomic\resources\app.asar
-3° - npm install -g @electron/asar
-4° - npx asar app.asar atomicsourcecode
+1° - Install NodeJS on your computer and then execute the following commands:<br>
+2° - cd C:\Users\YOURNAME\AppData\Local\Programs\atomic\resources\app.asar<br>
+3° - npm install -g @electron/asar<br>
+4° - npx asar app.asar atomicsourcecode<br>
 
 To make the code easier to read, use the tool https://beautifier.io/ to format the source code.
 
